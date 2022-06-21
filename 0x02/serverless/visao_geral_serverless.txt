@@ -1,0 +1,29 @@
+Arquitetura Serverless
+- De forma resumida, é um modelo de desenvolvimento nativo em nuvem para criação e execução de aplicações sem a necessidade de gerenciamento do servidores.
+
+FaaS (Function as a Service)
+- Serviço de computação em nuvem que roda códigos de aplicação são rodados como funções de forma individual
+
+
+Benefícios Serverless
+- Aumento da produtividade do time de desenvolvimento (os livra das tarefas de gerenciamento de servidores)
+- Reduz custos
+- Possibilidade de implementar soluções de terceiros
+-
+
+
+Cloud Computing
+- Fornececimento de serviços computacionais (servidores, storage, banco de dados, software, segurança, etc) pela Internet
+
+Benefícios Cloud Computing
+- Custo - Elimina gasto com software e hardware locais, e todos os seus encargos (atualizações, mão de obra, energia, etc)
+- Segurança - Proteção dos dados
+- Escala Global - Fornecimento de recursos de TI de acordo com a localização
+- Desempenho - Serviços rodados em uma rede mundial de DataCenters, que são atualizados regularmente
+- Produtividade - Economia de tempo em relação a configuração de hardware, software e demais tarefas
+- Velocidade - Acesso e disponibilidade dos serviços são feitos de forma muito rápidos
+- Confiabilidade - Reduz custos de backup e recuperação
+
+Monolito, Microsserviço e Serverless
+Monolito - A arquitetura é feita toda em cima de um único módulo
+Microsserviço e Serverless - A arquitetura é quebrada em vários módulos, denominados serviços.
