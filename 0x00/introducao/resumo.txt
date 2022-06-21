@@ -1,0 +1,8 @@
+Microserviços são, de forma resumida, a divisão de uma aplicação em várias partes, cada uma com uma função específica que é chamada de Serviço.
+A aplicação monolítica é composta de um módulo que engloba todas as funções, enquanto Microsserviços essas funções são divididas em várias partes.
+Os benefícios da arquitetura de microsserviços são:
+- Baixo acoplamento
+- Facilidade de implementação
+- Manutenibilidade facilitada
+
+Os microserviços se comunicam por HTTP, Mensagens e Orientação a Eventos
